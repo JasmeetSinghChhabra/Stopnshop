@@ -1,0 +1,3 @@
+# Fuck you ! downloader -Copyright"Bunny"
+User-agent: *
+Disallow: /

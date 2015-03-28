@@ -1,0 +1,3 @@
+#Copyright-Stopnshop fashions!
+User-agent: *
+Disallow:

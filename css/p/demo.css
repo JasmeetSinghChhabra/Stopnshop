@@ -1,0 +1,12 @@
+@import url('fonts/fonts.css');
+@import url('reset.css');
+
+/* General Demo Style */
+#rr{
+	font-family:'Myriad Pro', Arial, sans-serif;
+	font-size: 15px;
+}
+#b{
+	color: #fff;
+	text-decoration: none;
+}
